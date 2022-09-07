@@ -1,0 +1,134 @@
+.home {
+    /* height: 800px; */
+    margin-bottom: 59px;
+    background: url(/assets/img/backgrounds/body-bg.jpg) no-repeat;
+    background-size: 50%;
+    background-color: #996B60;
+}
+
+.home__header {
+    margin-bottom: 248px;
+    padding-top: 25px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    /* height: 96px; */
+    /* padding-bottom: 31px; */
+    /* border: 3px solid red; */
+}
+
+/* .home__header-nav-left {
+    width: 576px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+} */
+
+.home__header-nav-left ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    gap: 64px;
+}
+
+/* .home__header-nav-left ul li {
+    padding-left: 60px;
+} */
+
+.home__header-nav-left a {
+    font-size: 12px;
+    line-height: 150%; /* identical to box height, or 18px */
+    text-align: right;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+/* .home__header-logo {
+    padding-top: 25px;
+    padding-bottom: 31px;
+} */
+
+/* .home__header-nav-right {
+    width: 576px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+} */
+
+.home__header-nav-right ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    gap: 64px;
+}
+
+/* .home__header-nav-right ul li {
+    padding-right: 66px;
+} */
+
+.home__header-nav-right a {
+    font-size: 12px;
+    line-height: 150%; /* identical to box height, or 18px */
+    text-align: right;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+ /* Границы main-контента
+.main .container {
+    height: 800px;
+    border: 3px solid red;
+} */
+
+.home__info {
+    margin-left: 720px;
+}
+
+/* .home__h1 {
+    
+} */
+
+.home__text-h1 {
+    margin-bottom: 34px;
+    /* width: 457px;
+    height: 192px; */
+    font-family: 'Liberation Serif', sans-serif;
+    font-size: 73px;
+    line-height: 132%; /* or 96px */
+    color: #FFFFFF;
+}
+
+/* .home__paragraph {
+
+} */
+
+.home__description {
+    margin-bottom: 46px;
+    /* width: 572px;
+    height: 64px; */
+    font-size: 18px;
+    line-height: 178%; /* or 32px */
+    color: #FFFFFF;
+}
+
+/* .home__btn {
+
+} */
+
+.btn {
+    margin-bottom: 96px;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 117%; /* identical to box height, or 14px */
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 19px 52px;
+    border: 1px solid #FFF;
+    text-transform: uppercase;
+    color: #000000;
+}

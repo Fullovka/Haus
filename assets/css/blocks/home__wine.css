@@ -1,0 +1,60 @@
+/* .home__wine {
+    margin-top: 11px;
+} */
+
+.home__wine-block {
+    margin-bottom: 54px;
+    display: block;
+}
+
+.home__wine-img {
+    display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.home__wine-description {
+    margin: 0px 0px 95px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    /* margin-top: 55px; */
+}
+
+.home__wine-title {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex: 0 1 50%;
+    /* height: 80px;
+    width: 427px; */
+}
+
+.home__wine-title-h2 {
+    font-family: 'Liberation Serif';
+    font-size: 53px;
+    line-height: 151%; /* identical to box height, or 80px */
+    color: #000000;
+}
+
+.home__wine-paragraph {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 0 1 50%;
+    /* height: 96px;
+    width: 548px; */
+}
+
+.home__wine-paragraph-p {
+    font-size: 18px;
+    line-height: 178%; /* or 32px */
+    color: #000000;
+}
+
+.home__wine-line {
+    /* margin-top: 94px; */
+    margin-bottom: 59px;
+    border-bottom: 1px solid #BDBDBD;
+}

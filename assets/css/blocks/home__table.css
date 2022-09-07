@@ -1,0 +1,125 @@
+.home__table {
+    /* margin-top: 65px; */
+    background-image: url(/assets/img/backgrounds/haus__table.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* .home__table-background {
+    
+}  */
+
+.home_table-backgrond-img {
+    display: block;
+    width: 100%;
+	height: auto;
+}
+
+.home__table-blocks {
+    margin: 60px 0px;
+    display: inline-block;
+    /* margin-top: 60px;
+    margin-bottom: 60px; */
+}
+
+.home__table-block-1 {
+    padding: 40px 69px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+    /* height: 303px;
+    width: 550px; */
+}
+
+/* .home__table-title {
+
+} */
+
+.home__table-h2 {
+    /* padding-top: 40px; */
+    margin-bottom: 9px;
+    font-family: 'Liberation Serif';
+    font-size: 55px;
+    line-height: 145%; /* identical to box height, or 80px */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* .home__table-subtitle {
+
+} */
+
+.home__table-p {
+    /* padding-left: 69px;
+    padding-right: 69px; */
+    margin-bottom: 26px;
+    font-size: 16px;
+    line-height: 175%; /* or 28px */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.home__table-button {   
+    /* margin: 0px 0px 60px 0px;  */
+    text-align: center;
+}
+
+.home__table-btn {
+    display: inline-block;
+    padding: 19px 58px;
+    font-size: 12px;
+    line-height: 117%; /* identical to box height, or 14px */
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;  
+}
+
+.home__table-block-2 {
+    /* margin-bottom: 60px; */
+    padding: 31px 134px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 17px; */
+    /* height: 125px;
+    width: 550px; */
+    background: #000000;
+}
+
+
+
+.home__table-advertisement {
+    margin: 0px 0px 17px 0px;
+}
+
+.home__table-advertisement-p {
+    font-size: 16px;
+    line-height: 175%; /* identical to box height, or 28px */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.home__table-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 21px;
+}
+
+.link {
+    font-size: 12px;
+    line-height: 150%; /* identical to box height, or 18px */
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

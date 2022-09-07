@@ -1,0 +1,32 @@
+body {
+    background-color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+/* Utility */
+
+.none {
+    display: none !important;
+}
+
+.visibility-hidden {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+    display: block;
+    margin-left: -10000px;
+    background: transparent;
+    font-size: 0;
+}
+
+/* Grid */
+
+.container {
+    max-width: 1440px;
+    padding: 0px 60px;
+    margin: 0 auto;
+}

@@ -1,0 +1,111 @@
+.home__wine-haus {
+    margin: 0px 0px 50px 0px;
+    /* margin-top: 60px; */
+}
+
+.home__wine-haus-main-block {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.home__wine-haus-block {
+    /* flex: 0 1 50%; */
+}
+
+.home__wine-haus-block-img {
+    display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.home__wine-haus-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    /* flex: 0 1 50%; */
+}
+
+.home__haus-block-1 {
+    /* height: 154px;
+    width: 385px; */
+}
+
+.home__haus-title-1 {
+    margin: 0px 0px 19px 0px;
+}
+
+.home__haus-title-1-h2 {
+    /* margin-bottom: 19px; */
+    font-family: 'Liberation Serif';
+    font-size: 30px;
+    line-height: 147%; /* identical to box height, or44px */
+    color: #000000;
+}
+
+.home__haus-paragraph-1 {
+    margin: 0px 0px 21px 0px;
+}
+
+.home__haus-paragraph-1-p {
+    font-size: 18px;
+    line-height: 178%; /* or32px */
+    color: #000000;
+}
+
+.home__haus-block-2 {
+    /* height: 229px;
+    width: 385px; */
+}
+
+.home__haus-title-2 {
+    margin: 0px 0px 17px 0px;
+}
+
+.home__haus-title-2-h2 {
+    /* margin-top: 25px;
+    margin-bottom: 17px; */
+    font-family: 'Liberation Serif';
+    font-size: 36px;
+    line-height:  122%; /* or 44px */
+    color: #000000;
+}
+
+.home__haus-paragraph-2 {
+    margin: 0px 0px 20px 0px;
+}
+
+.home__haus-paragraph-2-p {
+    font-size: 18px;
+    line-height: 178%; /* or 32px */
+    color: #000000;
+}
+
+.home__haus-block-3 {
+    /* height: 122px;
+    width: 385px; */
+}
+
+.home__haus-title-3 {
+    margin: 0px 0px 19px 0px;
+}
+
+.home__haus-title-3-h2 {
+    /* margin-top: 24px;
+    margin-bottom: 19px; */
+    font-family: 'Liberation Serif';
+    font-size: 30px;
+    line-height: 147%; /* identical to box height, or 44px */
+    color: #000000;
+}
+
+.home__haus-paragraph-3 {
+
+}
+
+.home__haus-paragraph-3-p {
+    font-size: 18px;
+    line-height: 178%; /* or 32px */
+    color: #000000;
+}

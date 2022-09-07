@@ -1,0 +1,60 @@
+.home__explanation {
+    margin: 0px 0px 59px 0px;
+}
+
+.home__explanation-blocks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* gap: 110px; */
+}
+
+.home__explanation-block-1 {
+    flex: 0 1 50%;
+}
+
+.home__explanation-img {
+    display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.home__explanation-block-2 {
+    flex: 0 1 50%;
+}
+
+.home__explanation-title {
+
+}
+
+.home__explanation-h2 {
+    margin-bottom: 150px;
+    font-family: 'Liberation Serif';
+    font-size: 64px;
+    line-height: 125%; /* or 80px */
+    color: #000000;
+}
+
+/* .home__explanation-subtitle {
+
+} */
+
+.home__explanation-p {
+    margin-bottom: 35px;
+    font-size: 18px;
+    line-height: 178%; /* or 32px */
+    color: #000000;
+}
+
+/* .home__explanation-learn {
+
+} */
+
+.home__explanation-learn-more {
+    font-size: 12px;
+    line-height: 150%; /* identical to box height, or 18px */
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}

@@ -1,0 +1,135 @@
+/* .home__products {
+    height: 1141px;
+    margin-top: 106px;
+} */
+
+.home__products-block {
+    margin: 0 auto 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 205px;
+    width: 706px;
+    margin-bottom: 80px;
+    padding: 1.5px 16px; */
+}
+
+.home__products-title {
+    margin-bottom: 24px;
+    font-family: 'Liberation Serif';
+    font-size: 64px;
+    line-height: 125%; /* or 80px */
+    text-align: center;
+    color: #000000;
+}
+
+.home__products-paragraph {
+    font-size: 12px;
+    line-height: 150%; /* identical to box height, or 18px */
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.home__products-blocks {
+    margin: 0px 0px 141px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.home__products-blocks img {
+    margin-bottom: 19px;
+}
+
+.home__products__block-1 {
+    position: relative;
+    flex: 0 1 33.333%;
+}
+
+.home__products-descriptions {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 194px; */
+    /* width: 382px; */
+    /* margin-top: 20px; */
+    /* text-align: center; */
+}
+
+.home__products-title-h2 {
+    margin-bottom: 16px;
+    font-family: 'Liberation Serif';
+    font-size: 30px;
+    line-height: 147%; /* identical to box height, or 44px */
+    text-align: center;
+    color: #000000;
+}
+
+.home__products-paragraph-p {
+    margin-bottom: 27px;
+    font-size: 16px;
+    line-height: 175%; /* or 28px */
+    text-align: center;
+    color: #000000;
+}
+
+.home__products-btn {
+    display: inline-block;
+    padding: 19px 48px;
+    font-size: 12px;
+    line-height: 14px; /* identical to box height, or 117% */
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+    background: #191919;
+    border: 1px solid #191919;
+}
+
+.home__products__block-2 {
+    position: relative;
+    flex: 0 1 33.333%;
+}
+
+/* .home__products-icon-1 {
+
+} */
+
+.home__products-icon {
+    padding: 36px 21px;
+    position: absolute;
+    top: 23px;
+    right: 19px;
+    height: 100px;
+    width: 100px;
+    font-size: 12px;
+    line-height: 117%; /* or 14px */
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+    background: #191919;
+    border-radius: 50px;
+}
+
+.home__products__block-3 {
+    position: relative;
+    flex: 0 1 33.333%;
+}
+
+/* .home__products-icon-2 {
+    
+} */
+
+.home__products-line {
+    margin-bottom: 59px;
+    border-bottom: 1px solid #BDBDBD;
+}
