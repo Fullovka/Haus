@@ -1,7 +1,7 @@
 .home {
     /* height: 800px; */
     margin-bottom: 59px;
-    background: url(../img/backgrounds/body-bg.jpg) no-repeat;
+    background: url(/assets/img/backgrounds/body-bg.jpg) no-repeat;
     background-size: 50%;
     background-color: #996B60;
 }
