@@ -152,10 +152,22 @@ input[type="text"] {
     gap: 60px;
 }
 
+.active {
+    color: #FFFFFF;
+}
+
+.passive {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* .passive:hover {
+    color: #FFFFFF;
+} */
+
 .footer__down ul li a {
     margin-bottom: 55px;
     display: inline-block;
     font-size: 16px;
     line-height: 150%; /* identical to box height, or 24px */
-    color: rgba(255, 255, 255, 0.6);
+    /* color: rgba(255, 255, 255, 0.6); */
 }
