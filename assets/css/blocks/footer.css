@@ -11,12 +11,13 @@
 }
 
 .footer__block-1 {
+    padding: 45px 0px 0px 0px;
     display: flex;
     flex-direction: column;
 }
 
 .footer__block-1-title {
-    margin: 45px 0px 12px 0px;
+    margin: 0px 0px 12px 0px;
 }
 
 .footer__block-1-title-h2 {
@@ -69,7 +70,7 @@ input[type="text"] {
 }
 
 .footer__three-blocks {
-    margin: 55px 0px 0px 0px;
+    padding: 55px 0px 0px 0px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
