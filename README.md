@@ -1,4 +1,4 @@
-## -----------------------------------English version:-----------------------------------
+## ----------------------------------English version:----------------------------------
 # Greetings, my friend!
 ## My name is Daniil and I am a novice front-end developer.
 ## Want to present to your attention a website for the sale of elite alcohol called Haus.
