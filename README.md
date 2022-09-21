@@ -5,7 +5,7 @@
 ## The site is supplemented and edited whenever possible (we keep up with the times).
 #
 ## Have you found any bugs or bugs? Please let me know at the following addresses:
-### VK: https://vk.com/fullovka
+### VK: <a href="https://vk.com/fullovka" target="_blank">https://vk.com/fullovka</a>
 ### Discord: Top6#9495
 #
 ## Developer: Fullovka (me)
@@ -18,7 +18,7 @@
 ## Сайт обновляется и редактируется настолько, насколько это возможно (идем в ногу со временем).
 #
 ## Нашли баги или ошибки в сайте? Пожалуйста, дай мне знать об этом по следующим ссылкам:
-### ВКонтакте: https://vk.com/fullovka
+### ВКонтакте: <a href="https://vk.com/fullovka" target="_blank">https://vk.com/fullovka</a>
 ### Discord: Top6#9495
 #
 ## Разработчик: Fullovka (это я)
